@@ -1,2 +1,4 @@
 # hello-world
-just another repo
+
+i'm taking the github basic tutorial
+:)
